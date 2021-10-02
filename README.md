@@ -28,6 +28,7 @@
 ## Focusing Projects
 <!-- BLOG-POST-LIST:START -->
 - [GOBET: Borned to Perform](https://discord.com)
+- [Beginner-Bot](https://discord.com)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Stats
