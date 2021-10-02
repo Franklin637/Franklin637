@@ -4,7 +4,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Add me on Discord? Here! Franklin#6282. 
+- 🤔 &nbsp; Add me on **Discord?** Here! `Franklin#6282`. 
 - 🎓 &nbsp; Still learning JavaScript.
 
 
