@@ -5,7 +5,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Software Engineering.
+- 🎓 &nbsp; Learning Java.
 
 
 ### 🛠 &nbsp;Tech Stack
