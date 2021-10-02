@@ -26,7 +26,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-## Latest Articles
+## Focusing Projects
 <!-- BLOG-POST-LIST:START -->
 - [GOBET](https://discord.com)
 <!-- BLOG-POST-LIST:END -->
