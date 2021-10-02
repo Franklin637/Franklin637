@@ -5,7 +5,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Add me on **Discord?** Here! `Franklin#6282`. 
-- 🎓 &nbsp; Still learning JavaScript.
+- 🎓 &nbsp; Learning JavaScript and Node.js mainly.
 
 
 ### 🛠 &nbsp;Tech Stack
