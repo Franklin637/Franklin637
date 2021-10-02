@@ -48,7 +48,7 @@
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:ggohomies@gamil.com"><img src="https://img.shields.io/badge/-camthomp96@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:ggohomies@gamil.com"><img src="https://img.shields.io/badge/-ggohomies.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <!--
 **Franklin674/Franklin674** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
