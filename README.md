@@ -17,7 +17,6 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
@@ -29,11 +28,7 @@
 
 ## Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [My Hacktoberfest Repos](https://dev.to/cdthomp1/my-hacktoberfest-repos-2121)
-- [Making a Mini Wiki with the SpaceX Api and Next.js](https://dev.to/cdthomp1/making-a-mini-wiki-with-the-spacex-api-and-next-js-21p6)
-- [Arduino Zoom Box](https://dev.to/cdthomp1/arduino-zoom-box-394b)
-- [Day 2/100](https://dev.to/cdthomp1/day-2-100-4aeh)
-- [Day 1/100](https://dev.to/cdthomp1/day-1-100-1pb9)
+- [GOBET](https://discord.com)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Stats
