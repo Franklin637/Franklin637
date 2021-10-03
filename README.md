@@ -2,7 +2,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Add me on **Discord?** Here! `Franklin#6282`. 
+- 🤔 &nbsp; In the world of science tech; Wanna add me on **Discord?** Here! `Franklin#6282`. 
 - 🎓 &nbsp; Learning JavaScript and Node.js mainly.
 
 
