@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## I'm Cemal.
+## I'm Cemal. Your buddy!
 
 ### 💻 &nbsp;About Me 
 
