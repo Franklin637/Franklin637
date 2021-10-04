@@ -25,6 +25,14 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
+   ### 🛠 Github Stats 
+ <p>
+<a href="https://github.com/Mx3127">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mx3127&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mx3127&theme=radical&layout=compact&exclude_lang=java+r" />
+</a>
+</p>
+  
 
 ##  🤝🏻 &nbsp;Connect with Me
 
