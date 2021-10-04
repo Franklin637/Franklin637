@@ -25,7 +25,7 @@
 
 ## Focusing Project
 <!-- BLOG-POST-LIST:START -->
-- [GOBET: Borned to Perform](https://github.com/Franklin674/GOBET.xyz)
+- [GOBET: Borned to Perform](https://github.com/Franklin637/GOBET.xyz)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Stats
