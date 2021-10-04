@@ -1,6 +1,7 @@
 ## Hi, I'm Cemal!
 ### ⚽ About me
 * I'm just a Coder.
+* I'm a yeeter too!
 * I help people to create their own project by JavaScript, HTML, CSS, or more! Only in **Discord**.
 * I love to play games when I'm free! I play Fortnite BR, GTA, Among us(very sussy), more but let's just talk about programming now...
 
