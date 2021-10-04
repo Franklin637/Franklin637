@@ -35,5 +35,5 @@
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:ggohomies@gamil.com"><img src="https://img.shields.io/badge/-Mx3127's Mail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:ggohomies@gmail.com"><img src="https://img.shields.io/badge/-Mx3127's Mail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
